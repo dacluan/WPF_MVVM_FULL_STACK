@@ -1,0 +1,14 @@
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.Domain\bin\Debug\net6.0\SimpleTrader.Domain.deps.json
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.Domain\bin\Debug\net6.0\SimpleTrader.Domain.runtimeconfig.json
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.Domain\bin\Debug\net6.0\SimpleTrader.Domain.dll
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.Domain\bin\Debug\net6.0\SimpleTrader.Domain.pdb
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.Domain\obj\Debug\net6.0\SimpleTrader.Domain.csproj.AssemblyReference.cache
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.Domain\obj\Debug\net6.0\SimpleTrader.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.Domain\obj\Debug\net6.0\SimpleTrader.Domain.AssemblyInfoInputs.cache
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.Domain\obj\Debug\net6.0\SimpleTrader.Domain.AssemblyInfo.cs
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.Domain\obj\Debug\net6.0\SimpleTrader.Domain.csproj.CoreCompileInputs.cache
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.Domain\obj\Debug\net6.0\SimpleTrader.Domain.dll
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.Domain\obj\Debug\net6.0\refint\SimpleTrader.Domain.dll
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.Domain\obj\Debug\net6.0\SimpleTrader.Domain.pdb
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.Domain\obj\Debug\net6.0\SimpleTrader.Domain.genruntimeconfig.cache
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.Domain\obj\Debug\net6.0\ref\SimpleTrader.Domain.dll
