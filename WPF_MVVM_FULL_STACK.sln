@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_MVVM_FULL_STACK", "WPF_MVVM_FULL_STACK\WPF_MVVM_FULL_STACK.csproj", "{CE2D83C7-61F3-4F73-AE99-2E1D9AEDA307}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTrader.Domain", "SimpleTrader.Domain\SimpleTrader.Domain.csproj", "{D3D30F23-30DA-4446-B8AF-2BEEF466AFD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CE2D83C7-61F3-4F73-AE99-2E1D9AEDA307}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE2D83C7-61F3-4F73-AE99-2E1D9AEDA307}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE2D83C7-61F3-4F73-AE99-2E1D9AEDA307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3D30F23-30DA-4446-B8AF-2BEEF466AFD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D30F23-30DA-4446-B8AF-2BEEF466AFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D30F23-30DA-4446-B8AF-2BEEF466AFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D30F23-30DA-4446-B8AF-2BEEF466AFD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
