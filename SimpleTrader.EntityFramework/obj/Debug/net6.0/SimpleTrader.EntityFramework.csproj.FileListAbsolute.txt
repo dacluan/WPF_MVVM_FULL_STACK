@@ -1,0 +1,17 @@
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.EntityFramework\bin\Debug\net6.0\SimpleTrader.EntityFramework.deps.json
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.EntityFramework\bin\Debug\net6.0\SimpleTrader.EntityFramework.runtimeconfig.json
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.EntityFramework\bin\Debug\net6.0\SimpleTrader.EntityFramework.dll
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.EntityFramework\bin\Debug\net6.0\SimpleTrader.EntityFramework.pdb
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.EntityFramework\bin\Debug\net6.0\SimpleTrader.Domain.dll
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.EntityFramework\bin\Debug\net6.0\SimpleTrader.Domain.pdb
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.EntityFramework\obj\Debug\net6.0\SimpleTrader.EntityFramework.csproj.AssemblyReference.cache
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.EntityFramework\obj\Debug\net6.0\SimpleTrader.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.EntityFramework\obj\Debug\net6.0\SimpleTrader.EntityFramework.AssemblyInfoInputs.cache
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.EntityFramework\obj\Debug\net6.0\SimpleTrader.EntityFramework.AssemblyInfo.cs
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.EntityFramework\obj\Debug\net6.0\SimpleTrader.EntityFramework.csproj.CoreCompileInputs.cache
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.EntityFramework\obj\Debug\net6.0\SimpleTrader.EntityFramework.csproj.CopyComplete
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.EntityFramework\obj\Debug\net6.0\SimpleTrader.EntityFramework.dll
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.EntityFramework\obj\Debug\net6.0\refint\SimpleTrader.EntityFramework.dll
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.EntityFramework\obj\Debug\net6.0\SimpleTrader.EntityFramework.pdb
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.EntityFramework\obj\Debug\net6.0\SimpleTrader.EntityFramework.genruntimeconfig.cache
+D:\WPF\WPF_MVVM_FULL_STACK\SimpleTrader.EntityFramework\obj\Debug\net6.0\ref\SimpleTrader.EntityFramework.dll
